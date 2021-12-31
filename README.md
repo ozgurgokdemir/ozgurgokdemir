@@ -4,17 +4,21 @@
 <ul>
   <li><p>🚀 I'm a passionate <strong><em>Web Developer</em></strong> from Turkey.</p></li>
   <li><p>🧪 I'm always experimenting and always learning.</p></li>
-  <li><p>🥰 I'm also passionate about video games and movies.</p></li>
+  <li><p>☕ I like playing video games and watching movies.</p></li>
 </ul>
 <br>
 
-<h2 align="center">Technologies & Tools</h2>
+<h2 align="center">Technologies</h2>
 <br>
 <div align="center">
-  <img alt="CSharp" src="https://img.shields.io/badge/Code-C%23-informational?style=flat&color=2bbc8a&logo=csharp&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=2bbc8a&logo=javascript&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&color=2bbc8a&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&color=2bbc8a&logo=css3&logoColor=white">
+  <img alt="javascript" height="24" src="https://img.shields.io/badge/JavaScript%20ES6-black?style=flat-square&logo=javascript">
+  <img alt="csharp" height="24" src="https://img.shields.io/badge/C%23-black?style=flat-square&logoColor=68217A&logo=csharp">
+  <img alt="html" height="24" src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5">
+  <img alt="css" height="24" src="https://img.shields.io/badge/CSS3-black?style=flat-square&logoColor=1572B6&logo=css3">
+  <img alt="sass" height="24" src="https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass">
+  <img alt="git" height="24" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git">
+  <img alt="webpack" height="24" src="https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack">
+  <img alt="gulp" height="24" src="https://img.shields.io/badge/Gulp-black?style=flat-square&logo=gulp">
 </div>
 <br>
 
