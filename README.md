@@ -1,23 +1,30 @@
 <h1 align="center">Hi 👋, I'm <a href="#">ÖZGÜR</a></h1>
-<p align="center">You can find me on <a href="https://www.linkedin.com/in/ozgur-gokdemir/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&color=0A66C2&logo=linkedin&logoColor=white"></a></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ozgur-gokdemir/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&color=0A66C2&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ozgurgokd@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=flat&color=EA4335&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 <br>
-<ul>
-  <li><p>🚀 I'm a passionate <strong><em>Web Developer</em></strong> from Turkey.</p></li>
-  <li><p>🧪 I'm always experimenting and always learning.</p></li>
-  <li><p>☕ I like playing video games and watching movies.</p></li>
-</ul>
+<div align="center">
+  <p>🚀 I'm a passionate <strong>Front-End Developer</strong> from Turkey.</p>
+  <p>🧪 I'm always experimenting and always learning.</p>
+</div>
 <br>
 
 <h2 align="center">Technologies</h2>
 <br>
 <div align="center">
-  <img alt="react banner" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
-  <img alt="tailwind banner" height="24" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss">
-  <img alt="javascript banner" height="24" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript">
-  <img alt="csharp banner" height="24" src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logoColor=68217A&logo=csharp">
-  <img alt="html banner" height="24" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5">
-  <img alt="css banner" height="24" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logoColor=1572B6&logo=css3">
-  <img alt="sass banner" height="24" src="https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass">
+  <img alt="react" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
+  <img alt="tailwind" height="24" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss">
+  <img alt="javascript" height="24" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript">
+  <img alt="csharp" height="24" src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logoColor=68217A&logo=csharp">
+  <img alt="html" height="24" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5">
+  <img alt="css" height="24" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logoColor=1572B6&logo=css3">
+  <img alt="sass" height="24" src="https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass">
 </div>
 <br>
 
