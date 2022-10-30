@@ -18,13 +18,12 @@
 <h2 align="center">Technologies</h2>
 <br>
 <div align="center">
-  <img alt="react" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
-  <img alt="tailwind" height="24" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss">
   <img alt="javascript" height="24" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript">
-  <img alt="csharp" height="24" src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logoColor=68217A&logo=csharp">
-  <img alt="html" height="24" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5">
-  <img alt="css" height="24" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logoColor=1572B6&logo=css3">
-  <img alt="sass" height="24" src="https://img.shields.io/badge/SASS-0d1117?style=flat-square&logo=sass">
+  <img alt="typescript" height="24" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript">
+  <img alt="react" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
+  <img alt="redux" height="24" src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux">
+  <img alt="nextjs" height="24" src="https://img.shields.io/badge/Next-0d1117?style=flat-square&logo=next.js">
+  <img alt="tailwind" height="24" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss">
 </div>
 <br>
 
