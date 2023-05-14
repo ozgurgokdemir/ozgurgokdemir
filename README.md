@@ -10,7 +10,7 @@
 
 <br>
 <div align="center">
-  <p>🚀 I'm a passionate <strong>Front-End Developer</strong> from Turkey.</p>
+  <p>🚀 I'm a passionate <strong>frontend developer</strong> from <strong>Turkey</strong>.</p>
   <p>🧪 I'm always experimenting and always learning.</p>
 </div>
 <br>
@@ -20,10 +20,9 @@
 <div align="center">
   <img alt="javascript" height="24" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript">
   <img alt="typescript" height="24" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript">
-  <img alt="react" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
-  <img alt="redux" height="24" src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux">
-  <img alt="nextjs" height="24" src="https://img.shields.io/badge/Next-0d1117?style=flat-square&logo=next.js">
-  <img alt="tailwind" height="24" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss">
+  <img alt="react js" height="24" src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react">
+  <img alt="next js" height="24" src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js">
+  <img alt="tailwind css" height="24" src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss">
 </div>
 <br>
 
