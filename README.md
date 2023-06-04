@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="#">ÖZGÜR</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ozgurgokdemir.com/">ÖZGÜR</a></h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/ozgurgokdemir/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&color=0A66C2&logo=linkedin&logoColor=white" />
@@ -20,7 +20,7 @@
 <div align="center">
   <img alt="javascript" height="24" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript">
   <img alt="typescript" height="24" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript">
-  <img alt="react js" height="24" src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react">
+  <img alt="react" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
   <img alt="next js" height="24" src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js">
   <img alt="tailwind css" height="24" src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss">
 </div>
