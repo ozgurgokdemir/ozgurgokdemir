@@ -1,16 +1,16 @@
 <h1>Hi 👋, I'm Özgür Gökdemir</h1>
 <div>
-  <a href="https://www.linkedin.com/in/ozgurgokdemir/" target="_blank">
+  <a href="https://www.linkedin.com/in/ozgurgokdemir">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&color=0A66C2&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ozgurgokd@gmail.com" target="_blank">
+  <a href="mailto:ozgurgokd@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=flat&color=EA4335&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ozgurgokdemir.com/" target="_blank">
+  <a href="https://ozgurgokdemir.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-informational?style=flat&color=3fcf8e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzMwNl8yMikiPgo8cGF0aCBkPSJNMTUgM0M4LjM3MjU4IDMgMyA4LjM3MjU4IDMgMTVDMyAyMS42Mjc0IDguMzcyNTggMjcgMTUgMjdDMjEuNjI3NCAyNyAyNyAyMS42Mjc0IDI3IDE1TTIzLjI1IDYuNzVMMTUuNzUgMTQuMjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNC41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8zMDZfMjIiPgo8cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
   </a>
-  <a href="https://ozgurgokdemir.com/Ozgur%20Gokdemir.pdf" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/CV-informational?style=flat&color=f7df1e&logo=read.cv&logoColor=black" />
+  <a href="https://ozgurgokdemir.com/Ozgur_Gokdemir_Resume.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-informational?style=flat&color=f7df1e&logo=read.cv&logoColor=black" />
   </a>
 </div>
 
