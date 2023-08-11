@@ -7,12 +7,13 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=flat&color=EA4335&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ozgurgokdemir.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-informational?style=flat&color=3fcf8e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzMwNl8yMikiPgo8cGF0aCBkPSJNMTUgM0M4LjM3MjU4IDMgMyA4LjM3MjU4IDMgMTVDMyAyMS42Mjc0IDguMzcyNTggMjcgMTUgMjdDMjEuNjI3NCAyNyAyNyAyMS42Mjc0IDI3IDE1TTIzLjI1IDYuNzVMMTUuNzUgMTQuMjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNC41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8zMDZfMjIiPgo8cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-informational?style=flat&color=1DC266&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzMwNl8yMikiPgo8cGF0aCBkPSJNMTUgM0M4LjM3MjU4IDMgMyA4LjM3MjU4IDMgMTVDMyAyMS42Mjc0IDguMzcyNTggMjcgMTUgMjdDMjEuNjI3NCAyNyAyNyAyMS42Mjc0IDI3IDE1TTIzLjI1IDYuNzVMMTUuNzUgMTQuMjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNC41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8zMDZfMjIiPgo8cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
   </a>
   <a href="https://ozgurgokdemir.com/Ozgur_Gokdemir_Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-informational?style=flat&color=f7df1e&logo=read.cv&logoColor=black" />
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-informational?style=flat&color=751DC2&logo=read.cv&logoColor=white" />
   </a>
 </div>
+<br>
 
 <br>
 <div>
