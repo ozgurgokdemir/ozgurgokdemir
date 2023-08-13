@@ -29,7 +29,15 @@
   <img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript">
   <img alt="React" height="24" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react">
   <img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js">
+  <img alt="Redux" height="24" src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC">
+  <img alt="React Query" height="24" src="https://img.shields.io/badge/React%20Query-0d1117?style=flat-square&logo=reactquery">
+</div>
+<div>
   <img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss">
+  <img alt="Radix UI" height="24" src="https://img.shields.io/badge/Radix%20UI-0d1117?style=flat-square&logo=radixui">
+  <img alt="Framer Motion" height="24" src="https://img.shields.io/badge/Framer%20Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF">
+  <img alt="Storybook" height="24" src="https://img.shields.io/badge/Storybook-0d1117?style=flat-square&logo=storybook">
+  <img alt="Vitest" height="24" src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest">
 </div>
 <br>
 
