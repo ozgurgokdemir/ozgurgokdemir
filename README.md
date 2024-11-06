@@ -1,24 +1,21 @@
 <h1>Hi 👋, I'm Özgür Gökdemir</h1>
 <div>
-  <a href="https://www.linkedin.com/in/ozgurgokdemir">
+  <a href="https://linkedin.com/in/ozgurgokdemir">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&color=0A66C2&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ozgurgokd@gmail.com">
+  <a href="mailto:ozgur@ozgurgokdemir.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=flat&color=EA4335&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ozgurgokdemir.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-informational?style=flat&color=1DC266&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzMwNl8yMikiPgo8cGF0aCBkPSJNMTUgM0M4LjM3MjU4IDMgMyA4LjM3MjU4IDMgMTVDMyAyMS42Mjc0IDguMzcyNTggMjcgMTUgMjdDMjEuNjI3NCAyNyAyNyAyMS42Mjc0IDI3IDE1TTIzLjI1IDYuNzVMMTUuNzUgMTQuMjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNC41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8zMDZfMjIiPgo8cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
-  </a>
-  <a href="https://ozgurgokdemir.com/Ozgur_Gokdemir_Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-informational?style=flat&color=751DC2&logo=read.cv&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-informational?style=flat&color=10b981&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40NzcxNSAyIDIgNi40NzcxNSAyIDEyQzIgMTcuNTIyOCA2LjQ3NzE1IDIyIDEyIDIyQzE3LjUyMjggMjIgMjIgMTcuNTIyOCAyMiAxMk0xOC44NzUgNS4xMjVMMTIuNjI1IDExLjM3NSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbWl0ZXJsaW1pdD0iMi4wNjI2NyIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgo8L3N2Zz4K" />
   </a>
 </div>
 <br>
 
 <br>
 <div>
-  <p>🚀 I'm a frontend developer with a strong foundation in HTML, CSS, and JavaScript.</p>
-  <p>🧪 I specialize in building responsive and performant web applications.</p>
+  <p>🚀 I’m a frontend developer specializing in building dynamic web applications.</p>
+  <p>🧪 I'm always excited to explore new tools and technologies.</p>
 </div>
 <br>
 
